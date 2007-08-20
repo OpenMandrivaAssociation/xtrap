@@ -39,13 +39,13 @@ rm -rf %{buildroot}
 %{_bindir}/xtrapchar
 %{_bindir}/xtrapinfo
 %{_bindir}/xtrapout
-%{_mandir}/man1/xtrapstats.1x.bz2
-%{_mandir}/man1/xtrapproto.1x.bz2
-%{_mandir}/man1/xtrapreset.1x.bz2
-%{_mandir}/man1/xtrapout.1x.bz2
-%{_mandir}/man1/xtrapinfo.1x.bz2
-%{_mandir}/man1/xtrapin.1x.bz2
-%{_mandir}/man1/xtrapchar.1x.bz2
-%{_mandir}/man1/xtrap.1x.bz2
+%{_mandir}/man1/xtrapstats.*
+%{_mandir}/man1/xtrapproto.*
+%{_mandir}/man1/xtrapreset.*
+%{_mandir}/man1/xtrapout.*
+%{_mandir}/man1/xtrapinfo.*
+%{_mandir}/man1/xtrapin.*
+%{_mandir}/man1/xtrapchar.*
+%{_mandir}/man1/xtrap.*
 
 
