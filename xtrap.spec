@@ -1,6 +1,6 @@
 Name:		xtrap
 Version:	1.0.2
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	XTrap sample clients 
 Group:		Development/X11
 Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
