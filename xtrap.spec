@@ -7,8 +7,8 @@ Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.
 License:	MIT
 BuildRoot:	%{_tmppath}/%{name}-root
 
-BuildRequires:	libx11-devel >= 1.0.0
-BuildRequires:	libxtrap-devel >= 1.0.0
+BuildRequires:	pkgconfig(x11) >= 1.0.0
+BuildRequires:	pkgconfig(xtrap) >= 1.0.0
 BuildRequires:	x11-util-macros >= 1.0.1
 
 %description
